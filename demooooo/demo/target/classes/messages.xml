@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><messages>
+    <chat>
+        <id>0</id>
+        <setter>cica</setter>
+        <getter>micaaaaa</getter>
+        <message>meow?</message>
+        <status>SENT</status>
+    </chat>
+    <chat>
+        <id>1</id>
+        <setter>mica</setter>
+        <getter>macskusz</getter>
+        <message>MEOW</message>
+        <status>SENT</status>
+    </chat>
+<chat><id>0</id><setter>meouwu</setter><getter>mmicca</getter><message>meow?!</message><status>SENT</status></chat></messages>
