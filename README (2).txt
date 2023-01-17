@@ -36,5 +36,5 @@ ChatRepository egy JpaRepository<Entity, Long> paraméterekkel
 
 DB: SpringBoot megoldás, username=sa, password=null
 
-
+Postman integrálás sikeres, SwaggerUI nem ett kivitelezve
 
